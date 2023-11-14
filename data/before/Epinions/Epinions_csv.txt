@@ -1,0 +1,2 @@
+Epinions_csv.csv
+nodeU£¬nodeV,label,UIndegree£¬VIndegree£¬UOutdegree£¬VOutdegree£¬Udegree£¬Vdegree£¬sameNei£¬sumNei,

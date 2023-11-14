@@ -1,0 +1,2 @@
+Alpha.csv
+nodeId1£¨nodeId2£¨values£¨Directed_A_IN_£¨Directed_B_IN_£¨Directed_A_OUT_£¨Directed_B_OUT_£¨DEBREE_A_£¨DEBREE_B_£¨CommonNeighbor_£¨sumNeighbor_£¨JDS£¨æ€¿‡œµ ˝£¨Linkness

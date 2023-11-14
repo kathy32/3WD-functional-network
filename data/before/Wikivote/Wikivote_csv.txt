@@ -1,0 +1,4 @@
+wikiResult.csv
+fromId,toId,vote,ifSelect,nominators
+Wikivote.csv
+NodeId1£¬NodeId2£¬node1Int£¬node2Int£¬node1Out£¬node2Out£¬sumAdegree£¬sumBdegree£¬sameNeiborSet£¬sumNeiborSet£¬nominators
